@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BoonanaBanana
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning HTML
